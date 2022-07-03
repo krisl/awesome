@@ -38,6 +38,7 @@
 
 * [(9/9) Git internals performance](https://devblogs.microsoft.com/devops/exploring-new-frontiers-for-git-push-performance/)
 * [(5/9) Some git (and concurancy) intuition](https://www.youtube.com/watch?v=tyj390blxPc)
+* [(6/9) Files in tree in different repos](https://www.vikingsoftware.com/blog/multiple-git-repositories-in-the-same-tree/)
 
 ## Performance
 * [(7/9) Coz profiler](https://www.youtube.com/watch?v=r-TLSBdHe1A)
