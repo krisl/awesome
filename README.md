@@ -26,6 +26,7 @@
 * [(6/9) Static and shared libs](https://amir.rachum.com/blog/2016/09/17/shared-libraries/)
 * [(6/9) systemd tips](https://mgdm.net/weblog/systemd/)
 * [(7/9) spreadsheets calculations](https://lord.io/spreadsheets/)
+* [(6/9) Docker matching filesystem owner problem](https://www.joyfulbikeshedding.com/blog/2021-03-15-docker-and-the-host-filesystem-owner-matching-problem.html)
 
 ## C++
 
