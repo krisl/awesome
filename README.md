@@ -14,6 +14,10 @@
 * [(9/9) 4d cube visualisation](https://www.youtube.com/watch?v=PdFU1Sb4NOs)
 * [(7/9) Fun talk about history of video](https://www.youtube.com/watch?v=s661CU6Fvl4)
 
+# Math
+
+* [(9/9) Continuity of splines](https://www.youtube.com/watch?v=jvPPXbo87ds)
+
 # Software
 
 * [(8/9) State machines](https://www.youtube.com/watch?v=VU1NKX6Qkxc)
