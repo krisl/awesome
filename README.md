@@ -33,6 +33,9 @@
 * [(6/9) Docker matching filesystem owner problem](https://www.joyfulbikeshedding.com/blog/2021-03-15-docker-and-the-host-filesystem-owner-matching-problem.html)
 * [(6/9) PClean: Probabilistic scripts for automating common-sense tasks](https://www.youtube.com/watch?v=MiiWzJE0fEA)
 
+## Build systems
+* [(7/9) Intro to building, CMake](https://www.youtube.com/watch?v=zOmUHM0sFOc)
+
 ## C++
 
 * [(9/9) C++ wisdom via twitter](https://threadreaderapp.com/thread/1080069784644059139.html)
