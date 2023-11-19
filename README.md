@@ -32,6 +32,7 @@
 * [(7/9) spreadsheets calculations](https://lord.io/spreadsheets/)
 * [(6/9) Docker matching filesystem owner problem](https://www.joyfulbikeshedding.com/blog/2021-03-15-docker-and-the-host-filesystem-owner-matching-problem.html)
 * [(6/9) PClean: Probabilistic scripts for automating common-sense tasks](https://www.youtube.com/watch?v=MiiWzJE0fEA)
+* [(7/9) Typescript type system](https://stackoverflow.com/questions/62623637/r-could-be-instantiated-with-an-arbitrary-type-which-could-be-unrelated-to-re)
 
 ## Build systems
 * [(7/9) Intro to building, CMake](https://www.youtube.com/watch?v=zOmUHM0sFOc)
