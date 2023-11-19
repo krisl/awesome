@@ -38,6 +38,9 @@
 * [(7/9) Intro to building, CMake](https://www.youtube.com/watch?v=zOmUHM0sFOc)
 * [(7/9) Makefiles: 95% of what you need to know](https://www.youtube.com/watch?v=DtGrdB8wQ_8)
 
+## Python
+* [(6/9) threading vs multiprocessing in python](https://www.youtube.com/watch?v=AZnGRKFUU0c&t)
+
 ## C++
 
 * [(9/9) C++ wisdom via twitter](https://threadreaderapp.com/thread/1080069784644059139.html)
