@@ -47,6 +47,8 @@
 * [(9/9) C++ wisdom via twitter](https://threadreaderapp.com/thread/1080069784644059139.html)
 * [(5/9) Advanced C++: Templates](https://www.youtube.com/watch?v=HBUmhrv5hy0&list=PL1tk5lGm7zvRN62cMHBsqDq7gRDXwbQd3&index=4)
 * [(5/9) C++ initialisation](https://accu.org/journals/overload/25/139/brand_2379/)
+* [(6/9) Breaking Dependencies: Type Erasure](https://www.youtube.com/watch?v=4eeESJQk-mw)
+* [(8/9) Inheritance Is The Base Class of Evil (infinite undo)](https://www.youtube.com/watch?v=bIhUE5uUFOA)
 
 ## Git
 
