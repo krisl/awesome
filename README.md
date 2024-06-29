@@ -35,6 +35,7 @@
 * [(7/9) Typescript type system](https://stackoverflow.com/questions/62623637/r-could-be-instantiated-with-an-arbitrary-type-which-could-be-unrelated-to-re)
 * [(6/9) UIs are streaming DAGs](https://www.youtube.com/watch?v=fq4_W4vLA6g)
 * [(9/9) WHY Waterfall Doesn't work](https://www.youtube.com/watch?v=yhwaisT0VTM)
+* [(9/9) Inheritance is the Base Class of Evil](https://www.youtube.com/watch?v=bIhUE5uUFOA)
 
 ## Build systems
 * [(7/9) Intro to building, CMake](https://www.youtube.com/watch?v=zOmUHM0sFOc)
