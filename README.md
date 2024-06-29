@@ -41,6 +41,9 @@
 * [(7/9) Intro to building, CMake](https://www.youtube.com/watch?v=zOmUHM0sFOc)
 * [(7/9) Makefiles: 95% of what you need to know](https://www.youtube.com/watch?v=DtGrdB8wQ_8)
 
+## JavaScript
+* [(8/9) Event Loop, Web APIs, (Micro)task Queue](https://www.youtube.com/watch?v=eiC58R16hb8)
+
 ## Python
 * [(6/9) threading vs multiprocessing in python](https://www.youtube.com/watch?v=AZnGRKFUU0c&t)
 
