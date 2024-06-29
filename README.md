@@ -36,6 +36,7 @@
 * [(6/9) UIs are streaming DAGs](https://www.youtube.com/watch?v=fq4_W4vLA6g)
 * [(9/9) WHY Waterfall Doesn't work](https://www.youtube.com/watch?v=yhwaisT0VTM)
 * [(9/9) Inheritance is the Base Class of Evil](https://www.youtube.com/watch?v=bIhUE5uUFOA)
+* [(3/9) So what's exactly a JIT Compiler?](https://www.youtube.com/watch?v=sQTOIkOMDIw)
 
 ## Build systems
 * [(7/9) Intro to building, CMake](https://www.youtube.com/watch?v=zOmUHM0sFOc)
