@@ -37,6 +37,7 @@
 * [(9/9) WHY Waterfall Doesn't work](https://www.youtube.com/watch?v=yhwaisT0VTM)
 * [(9/9) Inheritance is the Base Class of Evil](https://www.youtube.com/watch?v=bIhUE5uUFOA)
 * [(3/9) So what's exactly a JIT Compiler?](https://www.youtube.com/watch?v=sQTOIkOMDIw)
+* [(8/9) How to handle permissions](https://www.youtube.com/watch?v=5GG-VUvruzE)
 
 ## Build systems
 * [(7/9) Intro to building, CMake](https://www.youtube.com/watch?v=zOmUHM0sFOc)
